@@ -1,0 +1,8 @@
+Collections
+
+username = Alex berket
+password = e3f690yp5e
+username = Alex Berket
+password = e3f690yp5e
+username = Alex berket
+password = e3f690yp5e
